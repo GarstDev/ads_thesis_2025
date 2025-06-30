@@ -1,10 +1,14 @@
-This repository contains the notebook used for the analytical work presented in my thesis, focusing on the evaluation of the GPT model performance and consistency. 
+# Evaluating Hospital Action Plans Using GPT-4
+This repository contains the notebook used for the analytical work presented in my thesis for Applied Data Science, focusing on the evaluation of the GPT model performance and consistency. 
 
 ## Key Analyses Performed
 This notebook conducts the following analyses: 
 1. Cohen's Kappa Agreement
 2. ROUGE evaluation
 3. Semantic Similarity (BERTScore)
+
+## Code 
+The '.ipynb' file contains all the python scripts used during this thesis project. To ensure that everything runs correctly, the scripts should be run sequentially starting from the first cell. 
 
 ## Data Requirements
 To run the analysis in this notebook, you will need two primary datasets, provided as CSV files. Ensure that all CSV files are encoded in 'UTF-8,' use a ';' as separator, and fields containing commas are enclosed in double quotes. 
