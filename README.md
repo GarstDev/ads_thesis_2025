@@ -10,7 +10,7 @@ This notebook conducts the following analyses:
 ## Code 
 The '.ipynb' file contains all the python scripts used during this thesis project. To ensure that everything runs correctly, the scripts should be run sequentially starting from the first cell. 
 
-## Data Requirements
+## Data
 To run the analysis in this notebook, you will need two primary datasets, provided as CSV files. Ensure that all CSV files are encoded in 'UTF-8,' use a ';' as separator, and fields containing commas are enclosed in double quotes. 
 Due to privacy measures the data is not publicly available. 
 
