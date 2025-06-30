@@ -16,7 +16,7 @@ To run the analysis in this notebook, please ensure:
 - Use `;` as the field separator
 - Fields containing commas should be enclosed in double quotes
 
-Due to privacy measures the **data is not publicly available**. 
+Due to privacy measures the **data is not publicly available**. To run this code, the data you must provide is outlined below.  
 
 1. Main Evaluation Dataset: this dataset must be provided in order to evaluate label agreement (Cohen's Kappa), ROUGE scores, and semantic similarity by comparing human annotations with LLM model outputs.
 
