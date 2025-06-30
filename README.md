@@ -8,11 +8,15 @@ This notebook conducts the following analyses:
 3. Semantic Similarity (BERTScore)
 
 ## Code 
-The '.ipynb' file contains all the python scripts used during this thesis project. To ensure that everything runs correctly, the scripts should be run sequentially starting from the first cell. 
+The '.ipynb' file contains all the python scripts used during this thesis project. To ensure that everything runs correctly, the scripts should be run **sequentially** starting from the first cell. 
 
 ## Data
-To run the analysis in this notebook, you will need two primary datasets, provided as CSV files. Ensure that all CSV files are encoded in 'UTF-8,' use a ';' as separator, and fields containing commas are enclosed in double quotes. 
-Due to privacy measures the data is not publicly available. 
+To run the analysis in this notebook, please ensure:
+- Files are encoded in UTF-8
+- Use `;` as the field separator
+- Fields containing commas should be enclosed in double quotes
+
+Due to privacy measures the **data is not publicly available**. 
 
 1. Main Evaluation Dataset: this dataset must be provided in order to evaluate label agreement (Cohen's Kappa), ROUGE scores, and semantic similarity by comparing human annotations with LLM model outputs.
 
